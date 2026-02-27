@@ -14,3 +14,4 @@ const findProductById = (id) => {
   }
 };
 
+findProductById("P03");
